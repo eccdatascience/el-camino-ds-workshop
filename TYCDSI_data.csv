@@ -1,24 +1,35 @@
-years,extroversion,text_per_day,hours_of_sleep,handedness,pants_order,position_of_sleep,pets,fav_tv_show,num_piercings
-14,7,5,8.0,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,4
-28,7,4,7.0,Right-handed,Right leg in first,Rotating,Cat,Ted Lasso,1
-22,8,15,7.0,Right-handed,I don't know,On my right side,Dog,Friends,6
-17,3,5,8.0,Right-handed,Left leg in first,On my left side,Fish,Black Mirror,4
-7,4,4,7.0,Right-handed,Right leg in first,Rotating,Cat,nan,0
-12,8,5,7.0,Right-handed,Right leg in first,On my right side,Fish,Only Murders in the Building,2
-10,6,5,7.0,Right-handed,Left leg in first,Rotating,nan,nan,2
-19,7,4,8.0,Right-handed,Right leg in first,On my back,Dog,Stranger Things,1
-25,1,2,7.0,Right-handed,I don't know,Rotating,Dog,Black Mirror,7
-16,3,4,7.0,Right-handed,I don't know,On my back,nan,Ted Lasso,6
-21,6,3,7.0,Right-handed,Right leg in first,Rotating,nan,nan,2
-11,3,3,7.0,Right-handed,Right leg in first,On my stomach,nan,Black Mirror,0
-24,2,2,7.0,Left-handed,Left leg in first,On my left side,Cat,nan,1
-13,3,1,8.0,Left-handed,Right leg in first,Rotating,nan,Black Mirror,0
-20,4,5,7.0,Right-handed,Left leg in first,On my right side,nan,Only Murders in the Building,2
-15,5,5,8.0,Right-handed,Right leg in first,On my right side,nan,nan,2
-25,5,5,8.0,Right-handed,Right leg in first,On my right side,Dog,Ted Lasso,0
-25,6,5,7.0,Right-handed,Right leg in first,On my right side,"I don't have any pets, but my daughter-in-law has 2 cats in my house.",nan,0
-25,5,2,7.0,Right-handed,Right leg in first,On my right side,Dog,SVU,3
-15,3,2,7.0,Right-handed,Left leg in first,On my left side,Cat,Only Murders in the Building,0
-22,5,4,6.0,Right-handed,Left leg in first,On my left side,Dog,nan,4
-17,5,0,5.5,Right-handed,Right leg in first,Rotating,nan,Resident Alien,0
-38,7,3,6.0,Right-handed,Left leg in first,On my left side,nan,nan,1
+Timestamp,How many years have you been a teacher?,"Do you consider yourself an introvert or extrovert?
+On a scale from 1-10: with ""1"" being extremely introverted...........and ""10"" being extremely extroverted. Definitions from merriam-webster.com: An introvert is ""a reserved or shy person who enjoys spending time alone""; an extrovert is ""a gregarious and unreserved person""",How many different people do you text (or any other forms of direct messaging) per day on average?,"On average, how many hours of sleep do you get each night?","Are you left-handed, right-handed, or ambidextrous?",How do you put on your pants?,What position do you sleep in?,What pets do you have?,Which of these TV shows is your favorite?,How many piercings do you have?
+6/1/2026 10:13:35,14,7,5,8,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,4
+6/1/2026 10:22:45,28,7,4,7,Right-handed,Right leg in first,Rotating,Cat,Ted Lasso,1
+6/1/2026 10:30:05,22,8,15,7,Right-handed,I don't know,On my right side,Dog,Friends,6
+6/1/2026 10:33:46,17,3,5,8,Right-handed,Left leg in first,On my left side,Fish,Black Mirror,4
+6/1/2026 10:41:45,7,4,4,7,Right-handed,Right leg in first,Rotating,Cat,None,0
+6/1/2026 10:43:56,12,8,5,7,Right-handed,Right leg in first,On my right side,Fish,Only Murders in the Building,2
+6/1/2026 10:59:17,10,6,5,7,Right-handed,Left leg in first,Rotating,None,None,2
+6/1/2026 11:05:14,19,7,4,8,Right-handed,Right leg in first,On my back,Dog,Stranger Things,1
+6/1/2026 11:57:37,25,1,2,7,Right-handed,I don't know,Rotating,Dog,Black Mirror,7
+6/1/2026 14:11:02,16,3,4,7,Right-handed,I don't know,On my back,None,Ted Lasso,6
+6/2/2026 6:33:51,21,6,3,7,Right-handed,Right leg in first,Rotating,None,None,2
+6/2/2026 9:22:22,11,3,3,7,Right-handed,Right leg in first,On my stomach,None,Black Mirror,0
+6/2/2026 11:43:25,24,2,2,7,Left-handed,Left leg in first,On my left side,Cat,None,1
+6/2/2026 11:47:13,13,3,1,8,Left-handed,Right leg in first,Rotating,None,Black Mirror,0
+6/2/2026 22:42:29,20,4,5,7,Right-handed,Left leg in first,On my right side,None,Only Murders in the Building,2
+6/3/2026 6:59:40,15,5,5,8,Right-handed,Right leg in first,On my right side,None,None,2
+6/3/2026 7:23:13,25,5,5,8,Right-handed,Right leg in first,On my right side,Dog,Ted Lasso,0
+6/3/2026 13:26:54,25,6,5,7,Right-handed,Right leg in first,On my right side,"I don't have any pets, but my daughter-in-law has 2 cats in my house.",None,0
+6/7/2026 19:58:04,25,5,2,7,Right-handed,Right leg in first,On my right side,Dog,SVU,3
+6/9/2026 5:19:05,15,3,2,7,Right-handed,Left leg in first,On my left side,Cat,Only Murders in the Building,0
+6/9/2026 9:11:09,22,5,4,6,Right-handed,Left leg in first,On my left side,Dog,None,4
+6/9/2026 10:08:19,17,5,0,5.5,Right-handed,Right leg in first,Rotating,None,Resident Alien,0
+6/9/2026 14:10:08,38,7,3,6,Right-handed,Left leg in first,On my left side,None,None,1
+6/9/2026 19:26:13,25,6,1,6,Right-handed,I don't know,On my back,Dog,None,0
+6/10/2026 8:11:24,15,2,2,5,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,0
+6/10/2026 9:05:18,29,8,5,6,Right-handed,Left leg in first,On my left side,Bird,The Mandalorian,2
+6/10/2026 16:02:51,18,3,8,6.5,Right-handed,I don't know,Rotating,None,Succession,0
+6/10/2026 17:07:47,17,3,1,6.5,Right-handed,Left leg in first,On my left side,Cat,Ted Lasso,0
+6/10/2026 17:41:55,20,6,6,6,Right-handed,Right leg in first,Rotating,None,Friends ,2
+6/10/2026 19:33:30,26,4,5,7,Right-handed,Left leg in first,On my left side,None,None,0
+6/10/2026 19:56:34,14,5,4,7,Right-handed,Left leg in first,Rotating,Cat,The Bear,2
+6/10/2026 20:20:56,31,6,10,5,Right-handed,Left leg in first,Rotating,Backyard critters,Only Murders in the Building,0
+6/10/2026 20:41:58,20,5,4,7,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,0
