@@ -1,5 +1,4 @@
-Timestamp,How many years have you been a teacher?,"Do you consider yourself an introvert or extrovert?
-On a scale from 1-10: with ""1"" being extremely introverted...........and ""10"" being extremely extroverted. Definitions from merriam-webster.com: An introvert is ""a reserved or shy person who enjoys spending time alone""; an extrovert is ""a gregarious and unreserved person""",How many different people do you text (or any other forms of direct messaging) per day on average?,"On average, how many hours of sleep do you get each night?","Are you left-handed, right-handed, or ambidextrous?",How do you put on your pants?,What position do you sleep in?,What pets do you have?,Which of these TV shows is your favorite?,How many piercings do you have?
+Timestamp,years_teaching,extrovertedness,texts,hours_of_sleep,handedness,pants_order,sleep_position,num_pets,tv_show,piercings
 6/1/2026 10:13:35,14,7,5,8,Right-handed,Right leg in first,Rotating,Dog,Ted Lasso,4
 6/1/2026 10:22:45,28,7,4,7,Right-handed,Right leg in first,Rotating,Cat,Ted Lasso,1
 6/1/2026 10:30:05,22,8,15,7,Right-handed,I don't know,On my right side,Dog,Friends,6
